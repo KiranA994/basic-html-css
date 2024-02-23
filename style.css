@@ -1,0 +1,20 @@
+p{
+    color: red;
+}
+
+h1{
+    color: green;
+}
+
+#para2{
+    color: rebeccapurple;
+}
+
+.para{
+    color: burlywood;
+}
+
+*{
+    background-color: palegoldenrod;
+}
+
